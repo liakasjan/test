@@ -59,6 +59,7 @@ body {
 	.block {
 		width: 45%;
 		flex: 1 0 auto;
+		background: #830cd6;
 	}
 
 	.block-1 {
@@ -90,6 +91,7 @@ body {
 	.block {
 		width: 40%;
 		flex: 1 0 auto;
+		background: #8A6C02;
 	}
 
 	.block-1 {
