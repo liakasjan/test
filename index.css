@@ -43,6 +43,8 @@ body {
 	background: #EBECD3;
 	margin: 10px;
 	text-align: center;
+	font-size: 40px;
+	color: #8A6C02;
 }
 
 .footer-container {
@@ -60,6 +62,7 @@ body {
 		width: 45%;
 		flex: 1 0 auto;
 		background: #830cd6;
+		color: #DAF2EE;
 	}
 
 	.block-1 {
@@ -92,6 +95,7 @@ body {
 		width: 40%;
 		flex: 1 0 auto;
 		background: #8A6C02;
+		color: lightgrey;
 	}
 
 	.block-1 {
