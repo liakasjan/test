@@ -15,6 +15,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	background: #DAF2EE;
 }
 
 .header-container {
@@ -33,6 +34,7 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
+	background: aqua;
 }
 
 .block {
