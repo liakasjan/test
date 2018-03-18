@@ -79,3 +79,23 @@ body {
 		order: 1;
 	}
 }
+
+@media all and (min-width: 320px) and (max-width: 769px) {
+	.block-none {
+		display: none;
+	}
+
+	.block {
+		width: 40%;
+		flex: 1 0 auto;
+	}
+
+	.block-1 {
+		width: 90%;
+		flex: 1 0 auto;
+	}
+
+	.block-5 {
+		display: none;
+	}
+}
