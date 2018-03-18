@@ -49,3 +49,33 @@ body {
 	background: #8A6C02;
 }
 
+@media all and (min-width: 768px) and (max-width: 1024px) {
+	.block-none {
+		display: none;
+	}
+
+	.block {
+		width: 45%;
+		flex: 1 0 auto;
+	}
+
+	.block-1 {
+		order: 3;
+	}
+
+	.block-2 {
+		order: 4;
+	}
+
+	.block-3 {
+		order: 2;
+	}
+
+	.block-4 {
+		order: 5;
+	}
+
+	.block-5 {
+		order: 1;
+	}
+}
